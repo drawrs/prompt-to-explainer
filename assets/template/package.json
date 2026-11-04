@@ -1,0 +1,1 @@
+{"name":"local-explainer","private":true,"scripts":{"render":"remotion render src/index.jsx Film out/film.mp4","still":"remotion still src/index.jsx Film out/pilot.png"},"dependencies":{"@remotion/cli":"4.0.540","remotion":"4.0.540","react":"19.2.0","react-dom":"19.2.0"}}
