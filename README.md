@@ -1,6 +1,6 @@
 # Prompt to Explainer
 
-A Codex skill for turning a topic into a narrated MP4. Choose dark metallic or isometric visuals, or describe a new style in your prompt. The default is a 30-second vertical short with English narration and animated captions.
+A Codex skill for turning a topic into a narrated MP4. Choose dark metallic, isometric, or [paper craft diorama](styles/paper-craft-diorama.md) visuals, or describe a new style in your prompt. The default is a 30-second vertical short with English narration and animated captions.
 
 ## Install
 
